@@ -7,6 +7,7 @@
 		<classes>
 			<class name="tests.HomePageTest" />
 			<class name="tests.SignInPageTest"/>
+			<class name="tests.MyAccountTest"/>
 		</classes>
 	</test>
 </suite>
