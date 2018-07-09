@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-09T08:17:43Z" name="E-commerce Shopping" finished-at="2018-07-09T08:18:14Z" duration-ms="31329">
+    <groups>
+    </groups>
+    <test started-at="2018-07-09T08:17:43Z" name="Test" finished-at="2018-07-09T08:18:14Z" duration-ms="31329">
+      <class name="tests.SignInPageTest">
+        <test-method is-config="true" signature="initTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:tests.SignInPageTest@44a7bfbc]" started-at="2018-07-09T08:17:43Z" name="initTestBaseSetup" finished-at="2018-07-09T08:18:08Z" duration-ms="24801" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://automationpractice.com/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestBaseSetup -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:tests.SignInPageTest@44a7bfbc]" started-at="2018-07-09T08:18:08Z" name="setUP" finished-at="2018-07-09T08:18:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="verifySignInInvalidAccount()[pri:0, instance:tests.SignInPageTest@44a7bfbc]" started-at="2018-07-09T08:18:08Z" name="verifySignInInvalidAccount" finished-at="2018-07-09T08:18:08Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInInvalidAccount -->
+        <test-method signature="verifySignInValidAccount()[pri:0, instance:tests.SignInPageTest@44a7bfbc]" started-at="2018-07-09T08:18:08Z" name="verifySignInValidAccount" finished-at="2018-07-09T08:18:12Z" duration-ms="4468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInValidAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SignInPageTest@44a7bfbc]" started-at="2018-07-09T08:18:12Z" name="tearDown" finished-at="2018-07-09T08:18:14Z" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SignInPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- E-commerce Shopping -->
+</testng-results>

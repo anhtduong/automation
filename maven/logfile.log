@@ -1,0 +1,116 @@
+INFO  | 2018-07-06 14:25:25 | [main] utility.Log (Log.java:25) - -----Start SignIn -----
+INFO  | 2018-07-06 14:25:25 | [main] utility.Log (Log.java:13) - Link Sign in is found
+INFO  | 2018-07-06 14:25:27 | [main] utility.Log (Log.java:13) - Click action is performed on Sign in link
+INFO  | 2018-07-06 14:25:27 | [main] utility.Log (Log.java:13) - Address is found
+INFO  | 2018-07-06 14:25:27 | [main] utility.Log (Log.java:13) - Address is found
+INFO  | 2018-07-06 14:25:27 | [main] utility.Log (Log.java:13) - Email is 
+INFO  | 2018-07-06 14:25:27 | [main] utility.Log (Log.java:13) - Create account button is found
+INFO  | 2018-07-06 14:25:27 | [main] utility.Log (Log.java:13) - Click action is performed on Create Account button
+INFO  | 2018-07-06 14:25:27 | [main] utility.Log (Log.java:28) - -----End SignIn -----
+INFO  | 2018-07-06 14:29:31 | [main] utility.Log (Log.java:25) - -----Start test case SignIn -----
+INFO  | 2018-07-06 14:29:32 | [main] utility.Log (Log.java:13) - Link Sign in is found
+INFO  | 2018-07-06 14:29:34 | [main] utility.Log (Log.java:13) - Click action is performed on Sign in link
+INFO  | 2018-07-06 14:29:34 | [main] utility.Log (Log.java:13) - Address is found
+INFO  | 2018-07-06 14:29:34 | [main] utility.Log (Log.java:13) - Address is found
+INFO  | 2018-07-06 14:29:34 | [main] utility.Log (Log.java:13) - Email is 
+INFO  | 2018-07-06 14:29:34 | [main] utility.Log (Log.java:13) - Create account button is found
+INFO  | 2018-07-06 14:29:34 | [main] utility.Log (Log.java:13) - Click action is performed on Create Account button
+INFO  | 2018-07-06 14:29:34 | [main] utility.Log (Log.java:28) - -----End test caseSignIn -----
+INFO  | 2018-07-06 14:35:56 | [main] utility.Log (Log.java:25) - -----Start test case SignIn -----
+INFO  | 2018-07-09 15:28:18 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:28:37 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 15:28:40 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 15:30:29 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:30:46 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 15:30:49 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 15:41:20 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:41:40 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 15:41:43 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-09 15:41:53 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 15:42:06 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:42:25 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 15:44:19 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:44:36 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 15:44:39 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 15:47:58 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:48:15 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 15:49:35 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:49:51 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 15:49:54 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 15:50:04 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 15:50:20 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:02:24 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:02:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:02:45 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:03:08 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:03:25 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:03:27 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:06:20 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:06:36 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:07:57 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:14:30 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:14:49 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:16:42 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:17:00 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:17:03 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-09 16:17:13 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:20:59 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:21:17 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:21:20 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:22:13 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:22:31 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:22:33 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:23:37 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:23:56 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:23:59 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-09 16:23:59 | [main] utility.Log (Log.java:13) - Password set 
+INFO  | 2018-07-09 16:24:01 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-09 16:24:01 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:35:34 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:35:51 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:35:54 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-09 16:35:54 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-09 16:35:54 | [main] utility.Log (Log.java:13) - Password set 
+INFO  | 2018-07-09 16:35:56 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-09 16:35:56 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-09 16:35:56 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:47:47 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:48:05 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-09 16:48:05 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:48:07 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-09 16:48:07 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-09 16:48:07 | [main] utility.Log (Log.java:13) - Password set 
+INFO  | 2018-07-09 16:48:09 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-09 16:48:09 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-09 16:48:09 | [main] utility.Log (Log.java:28) - -----End test case Sign-in with valid account -----
+INFO  | 2018-07-09 16:48:09 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:54:58 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:55:15 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-09 16:55:15 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:55:17 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-09 16:58:41 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-09 16:58:41 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-09 16:58:43 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-09 16:58:43 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-09 16:58:43 | [main] utility.Log (Log.java:28) - -----End test case Sign-in with valid account -----
+INFO  | 2018-07-09 16:58:43 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 16:59:30 | [main] utility.Log (Log.java:13) - Launching new profile of Firefox
+INFO  | 2018-07-09 16:59:47 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-09 16:59:47 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 16:59:49 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-09 16:59:49 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-09 16:59:49 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-09 16:59:51 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-09 16:59:51 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-09 16:59:51 | [main] utility.Log (Log.java:28) - -----End test case Sign-in with valid account -----
+INFO  | 2018-07-09 16:59:51 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-09 18:17:44 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-09 18:18:08 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-09 18:18:08 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-09 18:18:10 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-09 18:18:10 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-09 18:18:11 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-09 18:18:12 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-09 18:18:12 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-09 18:18:12 | [main] utility.Log (Log.java:28) - -----End test case Sign-in with valid account -----
+INFO  | 2018-07-09 18:18:12 | [main] utility.Log (Log.java:13) - Closing all browsers
