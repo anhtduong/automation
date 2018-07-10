@@ -20,34 +20,32 @@ import junit.framework.Assert;
 import pageObjects.HomePage;
 import pageObjects.MyAccountPage;
 import pageObjects.SignInPage;
+import utility.Constant;
 import utility.Log;
 
-public class SignInPageTest extends TestBaseSetup {
+public class SignInPageTest_ValidAcc extends TestBaseSetup {
 	private WebDriver driver;
-	private HomePage homePage;
-	private SignInPage signInPage;
-	private MyAccountPage myAccountPage;
+	private HomePage homePage ;
+	private SignInPage signInPage ;
+	private MyAccountPage myAccountPage ;
 
 	@BeforeClass
 	public void setUP() {
 		driver = getDriver();
-	}
-	
-	@Test
-	public void verifySignInValidAccount() {
-		Log.startTest("Sign-in with valid account");
 		homePage = new HomePage(driver);
 		signInPage = new SignInPage(driver);
 		myAccountPage = new MyAccountPage(driver);
+	}
+	
+	@Test
+	public void signInValidAccount() {
+		Log.startTest("Sign-in with valid account");
 		homePage.navigateSignInPage(driver);
 		Assert.assertTrue("Sign-in page title not matching", signInPage.verifySignInPageTitle());
-		signInPage.signIn(driver);
+		signInPage.signIn(driver, Constant.sheetSignInValidData);
 		Assert.assertTrue("My account page title not matching", myAccountPage.verifyMyAccountPageTitle() );
 		Log.endTest("Sign-in with valid account");
 	}
-	@Test
-	public void verifySignInInvalidAccount() {
-		
-	}
+	
 
 }

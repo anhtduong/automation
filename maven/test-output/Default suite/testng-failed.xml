@@ -5,10 +5,11 @@
     <classes>
       <class name="tests.SignInPageTest">
         <methods>
+          <include name="verifySignInInvalidAccount"/>
           <include name="initTestBaseSetup"/>
           <include name="tearDown"/>
-          <include name="verifySignIn"/>
           <include name="setUP"/>
+          <include name="verifySignInValidAccount"/>
         </methods>
       </class> <!-- tests.SignInPageTest -->
     </classes>

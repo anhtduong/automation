@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import utility.Constant;
+import utility.ExcelUtil;
 import utility.Log;
 
 public class SignInPage {
@@ -15,26 +16,30 @@ public class SignInPage {
 	private static By emailText = By.id("email");
 	private static By passwordText = By.id("passwd");
 	private static By submitLoginButton = By.id("SubmitLogin");
+	private static By errorMessage = By.className("alert alert-danger");
 
 	public SignInPage(WebDriver driver) {
 		this.driver = driver;
 	}
 
-	private void enterEmailAddress(String emailAddress) {
+	public void setEmailAddress(String emailAddress) {
 		WebElement element = driver.findElement(emailText);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.clear();
 			element.sendKeys(emailAddress);
-			Log.info("Email address is " + element.getAttribute("value"));
-			System.out.println(element.getAttribute("value"));
-			System.out.println(element.getText());
+			Log.info("Emal address is " + element.getAttribute("value"));
+			
 		}
 
 		else
 			Log.error("SignIn-email not found");
 	}
+	public String getEmailAddress() {
+		return emailText.toString();
+	}
+	
 
-	private void enterPassword(String sPass) {
+	public void setPassword(String sPass) {
 		WebElement element = driver.findElement(passwordText);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.clear();
@@ -46,7 +51,7 @@ public class SignInPage {
 			Log.error("SignIn-password not found");
 	}
 
-	private void enterEmailNewAccount(String emailAddress) {
+	public void setEmailNewAccount(String emailAddress) {
 		WebElement element = driver.findElement(emailNewAccountText);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.clear();
@@ -58,7 +63,7 @@ public class SignInPage {
 			Log.error("Create New Account - email not found");
 	}
 
-	private void clickLoginButton() {
+	public void clickLoginButton() {
 		WebElement element = driver.findElement(submitLoginButton);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.click();
@@ -69,7 +74,7 @@ public class SignInPage {
 			Log.error("Login button not found");
 	}
 
-	private void clickCreateAccountButton() {
+	public void clickCreateAccountButton() {
 		WebElement element = driver.findElement(createAccountButton);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.click();
@@ -81,16 +86,18 @@ public class SignInPage {
 	}
 	// Sign in successfully, navigate MyAccount page
 	// Need to improve with Data-driven
-	public MyAccountPage signIn(WebDriver driver) {
-		enterEmailAddress("user001@gmail.com");
-		enterPassword("password01");
+	public MyAccountPage signIn(WebDriver driver, String sheetName) {
+		ExcelUtil.getExcelFile(sheetName);
+		setEmailAddress(ExcelUtil.getCell(1,1));
+		setPassword(ExcelUtil.getCell(1,2));
 		clickLoginButton();
+		ExcelUtil.setCell(1,3,Constant.testPass);
 		return new MyAccountPage(driver);
 	}
-
+	
 	// navigate Create-Account page
 	public CreateAccountPage navigateCreateAccountPage() {
-		enterEmailNewAccount("user002@gmail.com");
+		setEmailNewAccount("user002@gmail.com");
 		clickCreateAccountButton();
 		return new CreateAccountPage(driver);
 	}
@@ -100,6 +107,13 @@ public class SignInPage {
 		return driver.getTitle().trim().contains(Constant.signInPageTitle);
 		
 		
+	}
+
+	public boolean verifySignInError() {
+		WebElement  elementError = driver.findElement(errorMessage);
+		if (elementError.isDisplayed()||elementError.isEnabled())
+			return true;
+		return false;
 	}
 
 }
