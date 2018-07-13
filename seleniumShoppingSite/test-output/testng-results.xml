@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-13T01:35:31Z" name="E-commerce Shopping" finished-at="2018-07-13T01:36:03Z" duration-ms="32726">
+    <groups>
+    </groups>
+    <test started-at="2018-07-13T01:35:31Z" name="Test" finished-at="2018-07-13T01:36:03Z" duration-ms="32726">
+      <class name="testPackage.SignInPageTest_ValidAcc">
+        <test-method is-config="true" signature="initTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:testPackage.SignInPageTest_ValidAcc@3a93b025]" started-at="2018-07-13T01:35:31Z" name="initTestBaseSetup" finished-at="2018-07-13T01:35:53Z" duration-ms="21832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://automationpractice.com/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestBaseSetup -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:testPackage.SignInPageTest_ValidAcc@3a93b025]" started-at="2018-07-13T01:35:53Z" name="setUP" finished-at="2018-07-13T01:35:53Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="signInValidAccount()[pri:0, instance:testPackage.SignInPageTest_ValidAcc@3a93b025]" started-at="2018-07-13T01:35:53Z" name="signInValidAccount" finished-at="2018-07-13T01:35:59Z" duration-ms="6406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInValidAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.SignInPageTest_ValidAcc@3a93b025]" started-at="2018-07-13T01:35:59Z" name="tearDown" finished-at="2018-07-13T01:36:03Z" duration-ms="4440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.SignInPageTest_ValidAcc -->
+    </test> <!-- Test -->
+  </suite> <!-- E-commerce Shopping -->
+</testng-results>

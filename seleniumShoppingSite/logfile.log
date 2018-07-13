@@ -1,0 +1,88 @@
+INFO  | 2018-07-13 10:45:41 | [main] utility.Log (Log.java:13) - Launching browser Chrome
+ERROR | 2018-07-13 10:45:41 | [main] utility.Log (Log.java:19) - [Ljava.lang.StackTraceElement;@6941827a
+INFO  | 2018-07-13 10:45:41 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 10:45:41 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 10:45:41 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 10:46:33 | [main] utility.Log (Log.java:13) - Launching browser Chrome
+ERROR | 2018-07-13 10:46:33 | [main] utility.Log (Log.java:19) - [Ljava.lang.StackTraceElement;@4da602fc
+INFO  | 2018-07-13 10:46:33 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 10:46:33 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 10:46:33 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 10:50:20 | [main] utility.Log (Log.java:13) - Launching browser Chrome
+ERROR | 2018-07-13 10:50:20 | [main] utility.Log (Log.java:19) - [Ljava.lang.StackTraceElement;@478ee483
+INFO  | 2018-07-13 10:50:20 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 10:50:20 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 10:50:20 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 10:55:55 | [main] utility.Log (Log.java:13) - Launching browser Chrome
+ERROR | 2018-07-13 10:55:55 | [main] utility.Log (Log.java:19) - [Ljava.lang.StackTraceElement;@3dd1dc90
+INFO  | 2018-07-13 10:55:55 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 10:55:55 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 10:55:55 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 10:59:13 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 10:59:37 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 10:59:37 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 10:59:40 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 10:59:40 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-13 10:59:40 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 10:59:42 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 10:59:42 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 10:59:42 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 11:03:23 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 11:03:44 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 11:03:44 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 11:03:46 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 11:03:48 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 11:03:48 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 11:03:50 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 11:03:50 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 11:03:50 | [main] utility.Log (Log.java:28) - -----End test case Sign-in with valid account -----
+INFO  | 2018-07-13 11:03:50 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 11:07:10 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 11:07:32 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 11:07:32 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 11:07:34 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 11:07:35 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-13 11:07:35 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 11:07:36 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 11:07:36 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 11:07:36 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 11:10:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 11:10:25 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 11:10:25 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 11:10:28 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 11:10:29 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 11:10:29 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 11:10:32 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 11:10:32 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 11:10:32 | [main] utility.Log (Log.java:28) - -----End test case Sign-in with valid account -----
+INFO  | 2018-07-13 11:10:32 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 11:21:27 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 11:21:44 | [main] utility.Log (Log.java:25) - -----Start test case Sign-in with valid account -----
+INFO  | 2018-07-13 11:21:44 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 11:21:47 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 11:21:48 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 11:21:48 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 11:21:50 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 11:21:50 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 11:21:50 | [main] utility.Log (Log.java:28) - -----End test case Sign-in with valid account -----
+INFO  | 2018-07-13 11:21:50 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 11:24:35 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 11:24:52 | [main] utility.Log (Log.java:25) - =====================Start Testing Sign-in with valid account =====================
+INFO  | 2018-07-13 11:24:52 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 11:24:54 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 11:24:55 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 11:24:56 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 11:24:58 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 11:24:58 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 11:24:58 | [main] utility.Log (Log.java:28) - =====================End Testing Sign-in with valid account =====================
+INFO  | 2018-07-13 11:24:58 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 11:35:32 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 11:35:53 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 11:35:53 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 11:35:55 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 11:35:56 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 11:35:57 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:13) - Closing all browsers
