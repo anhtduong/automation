@@ -13,11 +13,16 @@ import appModule.TestBaseSetup;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import pageObject.HomePage;
 import pageObject.SignInPage;
 import utility.Constant;
 import utility.Log;
+import utility.ReadWriteJSON;
+
+import java.io.IOException;
+import java.util.Iterator;
 
 public class SignInPageTest_InvalidAcc extends TestBaseSetup {
 	private WebDriver driver;
@@ -33,14 +38,18 @@ public class SignInPageTest_InvalidAcc extends TestBaseSetup {
 	
 	}
 	
-	@Test
-	public void signInNotValidAccount() {
-		Log.startTest("Sign-in with invalid account");
+	@Test(dataProvider = "invalid_accounts")
+	public void signInNotValidAccount(String email, String pass) {
+		Log.startTest(Constant.testNameEnum.SIGN_IN_INVALID_ACC.name());
 		homePage.navigateSignInPage(driver);
 		Assert.assertTrue(signInPage.verifySignInPageTitle(),"Sign-in page title not matching");
-		signInPage.signIn(driver, Constant.sheetSignInNotValidData);
-		Assert.assertTrue(signInPage.verifySignInError(), "SignedInWithInvalidAccount failed");
-		Log.endTest("Sign-in with invalid account");
+		signInPage.signIn(driver, email, pass);
+		Assert.assertTrue(signInPage.verifySignInError(), "Testing SignedInWithInvalidAccount failed");
+		Log.endTest(Constant.testNameEnum.SIGN_IN_INVALID_ACC.name());
+	}
+	@DataProvider
+	public static Iterator<Object[]> invalid_accounts()throws IOException {
+		return ReadWriteJSON.getInValidAccounts();
 	}
 
 }

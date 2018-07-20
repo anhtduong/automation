@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>5/3/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Jul 13 11:35:31 AEST 2018</td>
+<td>Started on:</td><td>Wed Jul 18 21:58:06 AEST 2018</td>
 </tr>
-<tr><td>Total time:</td><td>32 seconds (32726 ms)</td>
+<tr><td>Total time:</td><td>111 seconds (111512 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,117 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testPackage.SignInPageTest_CreateNewAcc.createNewAccount()'><b>createNewAccount</b><br>Test class: testPackage.SignInPageTest_CreateNewAcc</td>
+<td><div><pre>org.testng.internal.reflect.MethodMatcherException: 
+Data provider mismatch
+Method: createNewAccount([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=2, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=3, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=4, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=5, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=6, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=7, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=8, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=9, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=10, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=11, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=12, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=13, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=14, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String) fname,(java.lang.String) lname,(java.lang.String) user002@gmail,(java.lang.String) pass001,(java.lang.String) 1,(java.lang.String) January,(java.lang.String) 1984,(java.lang.String) address1,(java.lang.String) city1,(java.lang.String) Alabama,(java.lang.String) 000025,(java.lang.String) United States,(java.lang.String) 0902477905,(java.lang.String) alias1]
+... Removed 19 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1932330893", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1932330893'><pre>org.testng.internal.reflect.MethodMatcherException: 
+Data provider mismatch
+Method: createNewAccount([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=2, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=3, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=4, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=5, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=6, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=7, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=8, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=9, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=10, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=11, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=12, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=13, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=14, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String) fname,(java.lang.String) lname,(java.lang.String) user002@gmail,(java.lang.String) pass001,(java.lang.String) 1,(java.lang.String) January,(java.lang.String) 1984,(java.lang.String) address1,(java.lang.String) city1,(java.lang.String) Alabama,(java.lang.String) 000025,(java.lang.String) United States,(java.lang.String) 0902477905,(java.lang.String) alias1]
+	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:45)
+	at org.testng.internal.Parameters.injectParameters(Parameters.java:796)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:983)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+</pre></div></td>
+<td>0</td>
+<td>testPackage.SignInPageTest_CreateNewAcc@49139829</td></tr>
+<tr>
+<td title='testPackage.SignInPageTest_ValidAcc.signInValidAccount()'><b>signInValidAccount</b><br>Test class: testPackage.SignInPageTest_ValidAcc<br>Parameters: user021@gmail.com, password02</td>
+<td><div><pre>java.lang.AssertionError: Error on sign-in page. Unable to navigate my account page
+	at testPackage.SignInPageTest_ValidAcc.signInValidAccount(SignInPageTest_ValidAcc.java:56)
+... Removed 25 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace884111637", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace884111637'><pre>java.lang.AssertionError: Error on sign-in page. Unable to navigate my account page
+	at org.testng.Assert.fail(Assert.java:96)
+	at testPackage.SignInPageTest_ValidAcc.signInValidAccount(SignInPageTest_ValidAcc.java:56)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+</pre></div></td>
+<td>4</td>
+<td>testPackage.SignInPageTest_ValidAcc@4ec4f3a0</td></tr>
+<tr>
+<td title='testPackage.SignInPageTest_ValidAcc.signInValidAccount()'><b>signInValidAccount</b><br>Test class: testPackage.SignInPageTest_ValidAcc<br>Parameters: user031@gmail.com, password02</td>
+<td><div><pre>java.lang.AssertionError: Error on sign-in page. Unable to navigate my account page
+	at testPackage.SignInPageTest_ValidAcc.signInValidAccount(SignInPageTest_ValidAcc.java:56)
+... Removed 25 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1104938392", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1104938392'><pre>java.lang.AssertionError: Error on sign-in page. Unable to navigate my account page
+	at org.testng.Assert.fail(Assert.java:96)
+	at testPackage.SignInPageTest_ValidAcc.signInValidAccount(SignInPageTest_ValidAcc.java:56)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+</pre></div></td>
+<td>5</td>
+<td>testPackage.SignInPageTest_ValidAcc@4ec4f3a0</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -75,10 +186,30 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='testPackage.SignInPageTest_ValidAcc.signInValidAccount()'><b>signInValidAccount</b><br>Test class: testPackage.SignInPageTest_ValidAcc</td>
+<td title='testPackage.SignInPageTest_InvalidAcc.signInNotValidAccount()'><b>signInNotValidAccount</b><br>Test class: testPackage.SignInPageTest_InvalidAcc<br>Parameters: user031@gmail.com, password02</td>
 <td></td>
-<td>6</td>
-<td>testPackage.SignInPageTest_ValidAcc@3a93b025</td></tr>
+<td>4</td>
+<td>testPackage.SignInPageTest_InvalidAcc@223191a6</td></tr>
+<tr>
+<td title='testPackage.SignInPageTest_InvalidAcc.signInNotValidAccount()'><b>signInNotValidAccount</b><br>Test class: testPackage.SignInPageTest_InvalidAcc<br>Parameters: , password02</td>
+<td></td>
+<td>4</td>
+<td>testPackage.SignInPageTest_InvalidAcc@223191a6</td></tr>
+<tr>
+<td title='testPackage.SignInPageTest_InvalidAcc.signInNotValidAccount()'><b>signInNotValidAccount</b><br>Test class: testPackage.SignInPageTest_InvalidAcc<br>Parameters: user001@gmail.com, </td>
+<td></td>
+<td>4</td>
+<td>testPackage.SignInPageTest_InvalidAcc@223191a6</td></tr>
+<tr>
+<td title='testPackage.SignInPageTest_InvalidAcc.signInNotValidAccount()'><b>signInNotValidAccount</b><br>Test class: testPackage.SignInPageTest_InvalidAcc<br>Parameters: user001.com, </td>
+<td></td>
+<td>4</td>
+<td>testPackage.SignInPageTest_InvalidAcc@223191a6</td></tr>
+<tr>
+<td title='testPackage.SignInPageTest_ValidAcc.signInValidAccount()'><b>signInValidAccount</b><br>Test class: testPackage.SignInPageTest_ValidAcc<br>Parameters: user001@gmail.com, password01</td>
+<td></td>
+<td>5</td>
+<td>testPackage.SignInPageTest_ValidAcc@4ec4f3a0</td></tr>
 </table><p>
 </body>
 </html>

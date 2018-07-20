@@ -86,3 +86,1517 @@ INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:13) - Clicking on Log
 INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:13) - My Account page navigating
 INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
 INFO  | 2018-07-13 11:35:59 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 12:21:42 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 12:22:00 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 12:22:00 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 12:22:03 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 12:22:04 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 12:22:04 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 12:22:07 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 12:22:07 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 12:22:07 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 12:22:07 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 13:43:20 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 13:43:39 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 13:43:39 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 13:43:41 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 13:43:42 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 13:43:42 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 13:43:44 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 13:43:44 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 13:43:48 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 13:44:03 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 13:44:03 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 13:44:06 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 13:44:06 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 13:44:06 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 13:44:08 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 13:44:08 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 13:44:08 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 13:44:08 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 13:48:53 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 13:49:12 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 13:49:12 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 13:49:14 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 13:49:15 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 13:49:15 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 13:49:17 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 13:49:17 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 13:49:21 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 13:49:36 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 13:49:36 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 13:49:38 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 13:49:39 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 13:49:39 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 13:49:40 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 13:49:41 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 13:49:41 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 13:49:41 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 13:50:23 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 13:50:40 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 13:50:40 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 13:50:42 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 13:50:43 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 13:50:43 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 13:50:45 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 13:55:01 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 13:55:18 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 13:55:18 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 13:55:21 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 13:55:22 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 13:55:22 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 13:55:23 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 13:55:24 | [main] utility.Log (Log.java:13) - Verifying sign-in as invalid account is not accepted
+INFO  | 2018-07-13 13:55:24 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 13:55:24 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 13:55:27 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 13:55:43 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 13:55:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 13:55:45 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 13:55:45 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 13:55:45 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 13:55:47 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 13:55:47 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 13:55:47 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 13:55:47 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 14:04:00 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 14:04:16 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 14:04:16 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 14:04:18 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 14:04:19 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 14:04:19 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 14:04:20 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 14:04:21 | [main] utility.Log (Log.java:13) - Verifying sign-in as invalid account is not accepted
+INFO  | 2018-07-13 14:04:21 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 14:04:21 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 14:04:24 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 14:04:41 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 14:04:41 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 14:04:43 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 14:04:43 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 14:04:43 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 14:04:45 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 14:04:45 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 14:04:45 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 14:04:45 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 14:05:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 14:05:24 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 14:05:24 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 14:05:26 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 14:05:28 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 14:05:28 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 14:05:29 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 14:05:30 | [main] utility.Log (Log.java:13) - Verifying sign-in as invalid account is not accepted
+INFO  | 2018-07-13 14:05:30 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 14:05:30 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 14:05:33 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 14:05:49 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 14:05:49 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 14:05:52 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 14:05:52 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 14:05:52 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 14:05:54 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 14:05:54 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 14:05:54 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 14:05:54 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 14:11:12 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 14:11:30 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 14:11:30 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 14:11:32 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 14:11:33 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 14:11:33 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 14:11:34 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 14:11:35 | [main] utility.Log (Log.java:13) - Verifying sign-in as invalid account is not accepted
+INFO  | 2018-07-13 14:11:35 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 14:11:35 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 14:11:38 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 14:11:54 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 14:11:54 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 14:11:56 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 14:11:57 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 14:11:57 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 14:11:59 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 14:11:59 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 14:11:59 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 14:11:59 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 15:28:20 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 15:28:50 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 15:28:50 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 15:28:53 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 15:28:54 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-13 15:28:55 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 15:28:56 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 15:28:56 | [main] utility.Log (Log.java:13) - Verifying sign-in as invalid account is not accepted
+INFO  | 2018-07-13 15:28:56 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-13 15:28:56 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-13 15:29:00 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-13 15:29:20 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-13 15:29:20 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-13 15:29:23 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-13 15:29:23 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-13 15:29:24 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-13 15:29:26 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-13 15:29:26 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-13 15:29:26 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-13 15:29:26 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-14 19:21:58 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-14 19:22:23 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-14 19:22:23 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-14 19:22:25 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-14 19:22:27 | [main] utility.Log (Log.java:13) - Email address is user01@gmail.com
+INFO  | 2018-07-14 19:22:28 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-14 19:22:29 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-14 19:22:29 | [main] utility.Log (Log.java:13) - Verifying sign-in as invalid account is not accepted
+INFO  | 2018-07-14 19:22:29 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-14 19:22:29 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-14 19:22:34 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-14 19:22:53 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-14 19:22:53 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-14 19:22:56 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-14 19:22:57 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-14 19:22:57 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-14 19:22:59 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-14 19:22:59 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-14 19:22:59 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-14 19:22:59 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 12:16:04 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 12:16:25 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:16:25 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:16:27 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:16:27 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 12:16:27 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:16:28 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:16:29 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:16:29 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 12:16:29 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:16:29 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:16:29 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:16:32 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:16:32 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 12:16:32 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:16:32 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:16:34 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:16:34 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 12:16:34 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:16:34 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:16:36 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:16:36 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 12:16:36 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:16:36 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:16:38 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:16:38 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 12:16:38 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 12:30:10 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 12:30:28 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:30:28 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:30:30 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:30:30 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 12:30:30 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:30:30 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:30:32 | [main] utility.Log (Log.java:13) - Existing sign-in error
+INFO  | 2018-07-16 12:30:32 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:30:32 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 12:30:32 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:30:32 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:30:32 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:30:34 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:30:35 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 12:30:35 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:30:35 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:30:36 | [main] utility.Log (Log.java:13) - Existing sign-in error
+INFO  | 2018-07-16 12:30:36 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:30:36 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 12:30:36 | [main] utility.Log (Log.java:19) - Existing error on Sign-in page
+INFO  | 2018-07-16 12:30:36 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:30:36 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:30:36 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:30:39 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:30:39 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 12:30:39 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:30:39 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:30:40 | [main] utility.Log (Log.java:13) - Existing sign-in error
+INFO  | 2018-07-16 12:30:40 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:30:40 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 12:30:40 | [main] utility.Log (Log.java:19) - Existing error on Sign-in page
+INFO  | 2018-07-16 12:30:40 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:30:40 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 12:36:28 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 12:36:46 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:36:46 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:36:48 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:36:48 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 12:36:48 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:36:48 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:36:50 | [main] utility.Log (Log.java:13) - Existing sign-in error
+INFO  | 2018-07-16 12:36:50 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:36:50 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 12:36:50 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:36:50 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:36:50 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:36:52 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:36:52 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 12:36:52 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:36:52 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:36:54 | [main] utility.Log (Log.java:13) - Existing sign-in error
+INFO  | 2018-07-16 12:36:54 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:36:54 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 12:36:54 | [main] utility.Log (Log.java:19) - Existing error on Sign-in page
+INFO  | 2018-07-16 12:36:54 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:36:54 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:36:56 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:36:56 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 12:36:56 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:36:56 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:36:58 | [main] utility.Log (Log.java:13) - Existing sign-in error
+INFO  | 2018-07-16 12:36:58 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:36:58 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 12:36:58 | [main] utility.Log (Log.java:19) - Existing error on Sign-in page
+INFO  | 2018-07-16 12:36:58 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 12:42:19 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 12:42:34 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:42:34 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:42:36 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:42:37 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 12:42:37 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:42:37 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:42:39 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:42:39 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 12:42:39 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:42:39 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:42:39 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:42:41 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:42:41 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 12:42:41 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:42:41 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:42:43 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:42:43 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 12:42:43 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 12:42:43 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 12:42:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 12:42:44 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 12:42:45 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 12:42:45 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 12:42:45 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 12:42:47 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 12:42:47 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 12:42:47 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 12:42:47 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:27:20 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:27:38 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:27:38 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:27:40 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:27:41 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 15:27:41 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:27:41 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:27:43 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:27:43 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 15:27:43 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:27:43 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:27:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:27:46 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:27:46 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 15:27:46 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:27:46 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:27:48 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:27:48 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:27:48 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:27:48 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:27:48 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:27:50 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:27:50 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:27:50 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:27:50 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:27:51 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:27:51 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:27:51 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:27:51 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:27:55 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:28:11 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:28:11 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:28:13 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:28:14 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:28:14 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:28:14 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:28:16 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:28:16 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:28:16 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:46:38 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:46:59 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:46:59 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:47:01 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:47:02 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 15:47:02 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:47:02 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:47:04 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:47:04 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 15:47:04 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:47:04 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:47:04 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:47:06 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:47:07 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 15:47:07 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:47:07 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:47:09 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:47:09 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:47:09 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:47:09 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:47:09 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:47:11 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:47:11 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:47:11 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:47:11 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:47:13 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:47:13 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:47:13 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:47:13 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:47:17 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:47:36 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:47:36 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:47:38 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:47:38 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:47:39 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:47:39 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:47:40 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:47:40 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:47:40 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:49:14 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:49:33 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:49:33 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:49:36 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:49:36 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 15:49:36 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:49:36 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:49:38 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:49:38 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 15:49:38 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:49:38 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:49:38 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:49:41 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:49:41 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 15:49:41 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:49:41 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:49:43 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:49:43 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:49:43 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:49:43 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:49:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:49:45 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:49:45 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:49:45 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:49:46 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:49:47 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:49:47 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:49:47 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:49:47 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:49:51 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:50:09 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:09 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:50:12 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:50:12 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:50:12 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:50:12 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:50:14 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:50:14 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:14 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:14 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:50:16 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:50:16 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-16 15:50:16 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:50:16 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:50:18 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:50:18 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:18 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:18 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:50:20 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:50:20 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 15:50:20 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:50:20 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:50:22 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:50:22 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:22 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:22 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:50:24 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:50:24 | [main] utility.Log (Log.java:13) - Email address is user001.com
+INFO  | 2018-07-16 15:50:24 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:50:24 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:50:26 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:50:26 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:50:26 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:52:41 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:53:05 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:53:05 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:53:07 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:53:07 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 15:53:07 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:53:08 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:53:09 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:53:09 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 15:53:09 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:53:09 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:53:09 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:53:12 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:53:12 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 15:53:12 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:53:12 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:53:14 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:53:14 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:53:14 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:53:14 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 15:53:14 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:53:16 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:53:16 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:53:16 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:53:16 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:53:18 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:53:18 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 15:53:18 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 15:53:18 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 15:53:22 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 15:53:39 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:39 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:53:41 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:53:41 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 15:53:41 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:53:41 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:53:43 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:53:43 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:43 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:53:45 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:53:45 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-16 15:53:45 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:53:45 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:53:47 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:53:47 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:47 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:47 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:53:49 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:53:49 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 15:53:49 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:53:49 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:53:50 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:53:50 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:50 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:50 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 15:53:52 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 15:53:52 | [main] utility.Log (Log.java:13) - Email address is user001.com
+INFO  | 2018-07-16 15:53:52 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 15:53:52 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 15:53:54 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 15:53:54 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 15:53:54 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 16:03:37 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 16:03:57 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 16:03:57 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 16:03:59 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 16:04:00 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 16:04:00 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 16:04:00 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 16:04:02 | [main] utility.Log (Log.java:13) - ORDER HISTORY AND DETAILS
+MY CREDIT SLIPS
+MY ADDRESSES
+MY PERSONAL INFORMATION
+MY WISHLISTS
+INFO  | 2018-07-16 16:04:02 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 16:04:02 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-16 16:04:02 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with valid account =======
+INFO  | 2018-07-16 16:04:02 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 16:04:02 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 16:04:05 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 16:04:05 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-16 16:04:06 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 16:04:06 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 16:04:07 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-16 16:04:07 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 16:04:07 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 16:04:07 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 16:04:07 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with valid account =======
+INFO  | 2018-07-16 16:04:07 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 16:04:09 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 16:04:10 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 16:04:10 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 16:04:10 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 16:04:11 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-16 16:04:11 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 16:04:11 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-16 16:04:11 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-16 16:04:11 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-16 16:04:15 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-16 16:04:32 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:32 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 16:04:35 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 16:04:35 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-16 16:04:36 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 16:04:36 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 16:04:37 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-16 16:04:37 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 16:04:37 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-16 16:04:37 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:37 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:37 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 16:04:39 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 16:04:40 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-16 16:04:40 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 16:04:40 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 16:04:41 | [main] utility.Log (Log.java:13) - There is 1 error
+An email address required.
+INFO  | 2018-07-16 16:04:41 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 16:04:42 | [main] utility.Log (Log.java:13) - There is 1 error
+An email address required.
+INFO  | 2018-07-16 16:04:42 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:42 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:42 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 16:04:44 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 16:04:44 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-16 16:04:44 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 16:04:45 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 16:04:46 | [main] utility.Log (Log.java:13) - There is 1 error
+Password is required.
+INFO  | 2018-07-16 16:04:46 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 16:04:46 | [main] utility.Log (Log.java:13) - There is 1 error
+Password is required.
+INFO  | 2018-07-16 16:04:46 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:46 | [main] utility.Log (Log.java:25) - ======= Start Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:46 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-16 16:04:49 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-16 16:04:49 | [main] utility.Log (Log.java:13) - Email address is user001.com
+INFO  | 2018-07-16 16:04:49 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-16 16:04:49 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-16 16:04:51 | [main] utility.Log (Log.java:13) - There is 1 error
+Invalid email address.
+INFO  | 2018-07-16 16:04:51 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-16 16:04:51 | [main] utility.Log (Log.java:13) - There is 1 error
+Invalid email address.
+INFO  | 2018-07-16 16:04:51 | [main] utility.Log (Log.java:28) - ======= End Testing Sign-in with invalid account =======
+INFO  | 2018-07-16 16:04:51 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-18 21:36:49 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-18 21:37:13 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:37:13 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:37:16 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:37:16 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-18 21:37:16 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:37:16 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:37:18 | [main] utility.Log (Log.java:13) - ORDER HISTORY AND DETAILS
+MY CREDIT SLIPS
+MY ADDRESSES
+MY PERSONAL INFORMATION
+MY WISHLISTS
+INFO  | 2018-07-18 21:37:18 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:37:18 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-18 21:37:18 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:37:18 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:37:18 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:37:21 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:37:22 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-18 21:37:22 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:37:22 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:37:24 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:37:24 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:37:24 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-18 21:37:24 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-18 21:37:24 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:37:24 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:37:26 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:37:26 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-18 21:37:26 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:37:26 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:37:28 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:37:28 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:37:28 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-18 21:37:29 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-18 21:37:29 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-18 21:37:33 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-18 21:37:50 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:37:50 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:37:53 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:37:53 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-18 21:37:53 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:37:53 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:37:55 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:37:55 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:37:55 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:37:55 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:37:55 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:37:55 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:37:58 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:37:58 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-18 21:37:58 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:37:58 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:38:00 | [main] utility.Log (Log.java:13) - There is 1 error
+An email address required.
+INFO  | 2018-07-18 21:38:00 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:38:00 | [main] utility.Log (Log.java:13) - There is 1 error
+An email address required.
+INFO  | 2018-07-18 21:38:00 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:38:00 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:38:00 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:38:02 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:38:03 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-18 21:38:03 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:38:03 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:38:05 | [main] utility.Log (Log.java:13) - There is 1 error
+Password is required.
+INFO  | 2018-07-18 21:38:05 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:38:05 | [main] utility.Log (Log.java:13) - There is 1 error
+Password is required.
+INFO  | 2018-07-18 21:38:05 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:38:05 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:38:05 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:38:07 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:38:07 | [main] utility.Log (Log.java:13) - Email address is user001.com
+INFO  | 2018-07-18 21:38:07 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:38:07 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:38:09 | [main] utility.Log (Log.java:13) - There is 1 error
+Invalid email address.
+INFO  | 2018-07-18 21:38:09 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:38:09 | [main] utility.Log (Log.java:13) - There is 1 error
+Invalid email address.
+INFO  | 2018-07-18 21:38:09 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:38:09 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-18 21:58:07 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-18 21:58:31 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:58:31 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:58:34 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:58:34 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-18 21:58:35 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:58:35 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:58:37 | [main] utility.Log (Log.java:13) - ORDER HISTORY AND DETAILS
+MY CREDIT SLIPS
+MY ADDRESSES
+MY PERSONAL INFORMATION
+MY WISHLISTS
+INFO  | 2018-07-18 21:58:37 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:58:37 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-18 21:58:37 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:58:37 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:58:37 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:58:40 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:58:40 | [main] utility.Log (Log.java:13) - Email address is user021@gmail.com
+INFO  | 2018-07-18 21:58:40 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:58:40 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:58:42 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:58:42 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:58:42 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-18 21:58:42 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-18 21:58:42 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_VALID_ACC =======
+INFO  | 2018-07-18 21:58:42 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:58:45 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:58:45 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-18 21:58:45 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:58:45 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:58:47 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:58:47 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:58:47 | [main] utility.Log (Log.java:13) - My Account page navigating
+ERROR | 2018-07-18 21:58:47 | [main] utility.Log (Log.java:19) - Error on sign-in page. Unable to navigate my account page
+INFO  | 2018-07-18 21:58:47 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-18 21:58:52 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-18 21:59:11 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:11 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:59:14 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:59:14 | [main] utility.Log (Log.java:13) - Email address is user031@gmail.com
+INFO  | 2018-07-18 21:59:14 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:59:14 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:59:16 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:59:16 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:59:16 | [main] utility.Log (Log.java:13) - There is 1 error
+Authentication failed.
+INFO  | 2018-07-18 21:59:16 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:16 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:16 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:59:18 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:59:18 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-18 21:59:18 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:59:19 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:59:21 | [main] utility.Log (Log.java:13) - There is 1 error
+An email address required.
+INFO  | 2018-07-18 21:59:21 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:59:21 | [main] utility.Log (Log.java:13) - There is 1 error
+An email address required.
+INFO  | 2018-07-18 21:59:21 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:21 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:21 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:59:23 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:59:23 | [main] utility.Log (Log.java:13) - Email address is user001@gmail.com
+INFO  | 2018-07-18 21:59:23 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:59:23 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:59:25 | [main] utility.Log (Log.java:13) - There is 1 error
+Password is required.
+INFO  | 2018-07-18 21:59:25 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:59:25 | [main] utility.Log (Log.java:13) - There is 1 error
+Password is required.
+INFO  | 2018-07-18 21:59:25 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:25 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:25 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-18 21:59:28 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-18 21:59:28 | [main] utility.Log (Log.java:13) - Email address is user001.com
+INFO  | 2018-07-18 21:59:28 | [main] utility.Log (Log.java:13) - Password populated 
+INFO  | 2018-07-18 21:59:28 | [main] utility.Log (Log.java:13) - Clicking on Login button
+INFO  | 2018-07-18 21:59:30 | [main] utility.Log (Log.java:13) - There is 1 error
+Invalid email address.
+INFO  | 2018-07-18 21:59:30 | [main] utility.Log (Log.java:13) - Signing with invalid email or/and password
+INFO  | 2018-07-18 21:59:30 | [main] utility.Log (Log.java:13) - There is 1 error
+Invalid email address.
+INFO  | 2018-07-18 21:59:30 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_INVALID_ACC =======
+INFO  | 2018-07-18 21:59:30 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-18 21:59:35 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-18 21:59:53 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:14:52 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:15:20 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:29:28 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:29:31 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:29:51 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:29:56 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:30:27 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:30:46 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:30:49 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:30:54 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:30:57 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:31:15 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:31:15 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:31:24 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:31:25 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:31:28 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:31:54 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:31:54 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:34:15 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:34:31 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:40:22 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:40:40 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:43:09 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:43:25 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:50:02 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:50:18 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 09:57:02 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 09:57:24 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:03:18 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:03:35 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:03:35 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:03:37 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:03:37 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:03:38 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:03:38 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:03:38 | [main] utility.Log (Log.java:13) - Email isuser002@gmail
+ERROR | 2018-07-19 10:03:38 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:03:38 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:07:59 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:08:14 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:08:14 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:08:16 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:08:16 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:08:17 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:08:17 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:08:17 | [main] utility.Log (Log.java:13) - Email isuser002@gmail
+ERROR | 2018-07-19 10:08:17 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:08:17 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:08:41 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:08:57 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:08:57 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:09:00 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:09:00 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:09:00 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:09:00 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:09:00 | [main] utility.Log (Log.java:13) - Email isuser002@gmail
+ERROR | 2018-07-19 10:09:00 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:09:00 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:11:32 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:11:49 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:11:49 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:11:51 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:11:52 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:11:52 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:11:52 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:11:52 | [main] utility.Log (Log.java:13) - Email is user002@gmail
+ERROR | 2018-07-19 10:11:52 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:11:52 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:13:11 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:13:27 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:13:27 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:13:29 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:13:29 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:13:30 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:13:30 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:13:30 | [main] utility.Log (Log.java:13) - Email is user002@gmail.com
+ERROR | 2018-07-19 10:13:30 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:13:30 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:16:04 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:16:19 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:16:19 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:16:21 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:16:22 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:16:22 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:16:22 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:16:22 | [main] utility.Log (Log.java:13) - Email is user002@gmail.com
+ERROR | 2018-07-19 10:16:22 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:16:22 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:20:47 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:21:04 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:21:04 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:21:06 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:21:06 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:21:06 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:21:06 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:21:06 | [main] utility.Log (Log.java:13) - Email is user002@gmail.com
+ERROR | 2018-07-19 10:21:06 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:21:06 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:29:34 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:29:50 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:29:50 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:29:53 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:29:53 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:29:53 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:29:53 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:29:53 | [main] utility.Log (Log.java:13) - Email is user002@gmail.com
+ERROR | 2018-07-19 10:29:53 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:29:53 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:33:33 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:33:52 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:34:08 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:34:08 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:34:11 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:34:11 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:34:11 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:34:11 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:34:11 | [main] utility.Log (Log.java:13) - Email is user002@gmail.com
+ERROR | 2018-07-19 10:34:11 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:34:11 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:40:19 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:40:36 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:40:36 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:40:39 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:40:39 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:40:39 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:40:39 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:40:39 | [main] utility.Log (Log.java:13) - Email is user002@gmail.com
+ERROR | 2018-07-19 10:40:39 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:40:39 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:44:02 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:44:20 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:44:20 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:44:23 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:44:23 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:44:24 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:44:24 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:44:24 | [main] utility.Log (Log.java:13) - Email is user002@gmail.com
+ERROR | 2018-07-19 10:44:24 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 10:44:24 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:45:17 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:45:34 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:45:34 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:45:37 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:45:37 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:45:37 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:45:37 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:45:37 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:48:23 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:48:41 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:48:41 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:48:43 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:48:43 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:48:44 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:48:44 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:48:44 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:49:12 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:49:29 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:49:29 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:49:32 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:49:32 | [main] utility.Log (Log.java:13) - Email address is 
+INFO  | 2018-07-19 10:49:32 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:49:32 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:49:32 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:51:24 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:51:41 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:51:41 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:51:46 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:51:46 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 10:51:46 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:51:46 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:51:46 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 10:51:46 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:52:52 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:53:08 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:53:08 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:53:10 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:53:10 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 10:53:11 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:53:11 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:53:11 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 10:53:11 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 10:57:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 10:57:23 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 10:57:23 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 10:57:25 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 10:57:26 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 10:57:26 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 10:57:26 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 10:57:26 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+ERROR | 2018-07-19 11:00:39 | [main] utility.Log (Log.java:19) - Title radio not found
+INFO  | 2018-07-19 11:02:02 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 11:02:10 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 11:02:13 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 11:02:49 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 11:13:57 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 11:14:14 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 11:14:14 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 11:14:16 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 11:14:16 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 11:14:16 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 11:14:16 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 11:14:17 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 11:14:17 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 11:16:56 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 11:17:13 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 11:17:13 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 11:17:15 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 11:17:15 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 11:17:16 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 11:17:16 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 11:18:53 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 11:54:49 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 11:57:03 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 11:57:20 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 11:57:20 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 11:57:22 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 11:57:22 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 11:57:22 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 11:57:22 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 11:57:22 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 11:57:22 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 11:57:43 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 11:57:59 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 11:57:59 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 11:58:02 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 11:58:02 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 11:58:02 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 11:58:02 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 11:58:03 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 11:59:37 | [main] utility.Log (Log.java:13) - Title is Mr.
+INFO  | 2018-07-19 12:00:46 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:01:39 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:01:47 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:02:02 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:02:36 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:02:53 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:02:53 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:02:55 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:02:55 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:02:56 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:02:56 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:02:56 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:06:09 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 12:11:42 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:11:48 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:12:42 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:17:14 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:18:39 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:18:56 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:18:56 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:18:58 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:18:58 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:18:59 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:18:59 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:18:59 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:19:10 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 12:19:12 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:19:15 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:19:17 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:20:45 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:22:09 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:22:26 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:22:26 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:22:28 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:22:29 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:22:29 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:22:29 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:22:29 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:22:42 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:22:44 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:22:47 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:23:01 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 12:23:48 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:24:18 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:24:35 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:24:35 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:24:37 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:24:37 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:24:38 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:24:38 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:24:38 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:24:38 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:25:50 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:26:05 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:26:05 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:26:07 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:26:07 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:26:08 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:26:08 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:26:08 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:26:21 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:26:24 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:26:26 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:26:27 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 12:28:20 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:28:27 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:28:43 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:28:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:28:45 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:28:45 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:28:45 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:28:45 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:28:45 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:29:19 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:29:21 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:29:25 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:29:43 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 12:30:53 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:31:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:31:22 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:31:22 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:31:24 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:31:24 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:31:24 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:31:24 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:31:25 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:31:35 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:31:37 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:33:23 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:33:28 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 12:33:43 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:35:36 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:35:53 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:35:53 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:35:56 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:35:56 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:35:56 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:35:56 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:35:56 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:35:57 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:36:47 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:37:04 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:37:04 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:37:06 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:37:06 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:37:06 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:37:06 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:37:07 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:37:27 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:37:29 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:37:35 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:37:37 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 12:38:59 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:40:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:40:23 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:40:23 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:40:25 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:40:25 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:40:26 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:40:26 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:40:26 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:41:23 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:41:25 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:41:38 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:42:06 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 12:44:43 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:44:47 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:45:04 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:45:04 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:45:06 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:45:06 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:45:06 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:45:06 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:45:06 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:45:06 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:45:18 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:45:35 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:45:35 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:45:37 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:45:37 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:45:37 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:45:37 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:45:38 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:45:46 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:45:50 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:45:54 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:46:02 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 12:48:34 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 12:53:30 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:53:46 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:53:46 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:53:49 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:53:49 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:53:49 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:53:49 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:53:49 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 12:55:01 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 12:55:03 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 12:55:06 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 12:55:43 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 12:55:54 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 12:59:12 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 12:59:29 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 12:59:29 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 12:59:31 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 12:59:31 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 12:59:31 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 12:59:31 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 12:59:31 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:00:10 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 13:00:21 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 13:00:23 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 13:00:24 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 13:00:27 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 13:00:30 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 13:00:39 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 13:00:44 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 13:00:51 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 13:01:22 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 13:02:07 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:02:22 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:02:22 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:02:25 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:02:25 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:02:25 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:02:25 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:02:25 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:02:35 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 13:02:37 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 13:02:39 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 13:02:40 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 13:02:41 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 13:02:42 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 13:02:43 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 13:02:45 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 13:02:51 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 13:04:27 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 13:05:11 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:06:03 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:06:10 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:06:20 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:06:20 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:06:22 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:06:22 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:06:22 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:06:22 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:06:22 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:06:27 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:06:27 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:06:29 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:06:30 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:06:30 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:06:30 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:06:30 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:06:42 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 13:07:06 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 13:07:20 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:07:33 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:07:49 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:07:49 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:07:51 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:07:51 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:07:52 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:07:52 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:07:52 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:08:04 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 13:08:09 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 13:08:11 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 13:08:13 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 13:08:14 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 13:08:16 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 13:08:18 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 13:08:30 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 13:08:32 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 13:08:34 | [main] utility.Log (Log.java:13) - State is 1
+INFO  | 2018-07-19 13:08:41 | [main] utility.Log (Log.java:13) - Post Code is 000025
+INFO  | 2018-07-19 13:08:44 | [main] utility.Log (Log.java:13) - Country is 21
+INFO  | 2018-07-19 13:08:49 | [main] utility.Log (Log.java:13) - Mobile phone is 0902477905
+INFO  | 2018-07-19 13:08:53 | [main] utility.Log (Log.java:13) - Address alias is alias1
+INFO  | 2018-07-19 13:09:07 | [main] utility.Log (Log.java:13) - Clicking Register
+INFO  | 2018-07-19 13:09:57 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:10:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:10:16 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:10:16 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:10:18 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:10:18 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:10:19 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:10:19 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:10:19 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 13:10:24 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:10:24 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:10:26 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:10:26 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:10:27 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:10:27 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:10:27 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:10:50 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:11:05 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:11:05 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:11:08 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:11:08 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:11:08 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:11:08 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:11:08 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:11:16 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 13:11:18 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 13:11:20 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 13:11:22 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 13:11:24 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 13:11:25 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 13:11:26 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 13:11:29 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 13:11:32 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 13:11:34 | [main] utility.Log (Log.java:13) - State is 1
+INFO  | 2018-07-19 13:11:36 | [main] utility.Log (Log.java:13) - Post Code is 00025
+INFO  | 2018-07-19 13:11:38 | [main] utility.Log (Log.java:13) - Country is 21
+INFO  | 2018-07-19 13:11:39 | [main] utility.Log (Log.java:13) - Mobile phone is 0902477905
+INFO  | 2018-07-19 13:11:41 | [main] utility.Log (Log.java:13) - Address alias is alias1
+INFO  | 2018-07-19 13:11:44 | [main] utility.Log (Log.java:13) - Clicking Register
+INFO  | 2018-07-19 13:11:52 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-19 13:12:02 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:12:18 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 13:12:51 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:13:07 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:13:07 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:13:10 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:13:11 | [main] utility.Log (Log.java:13) - Email address is user003@gmail.com
+INFO  | 2018-07-19 13:13:11 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:13:11 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:13:12 | [main] utility.Log (Log.java:13) - Email is user003@gmail.com
+INFO  | 2018-07-19 13:13:30 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-19 13:13:55 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:14:11 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:14:11 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:14:13 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:14:13 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 13:14:14 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:14:14 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:14:14 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 13:14:14 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 13:22:43 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 13:22:59 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 13:22:59 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 13:23:01 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 13:23:01 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 13:23:02 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 13:23:02 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 13:23:02 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 13:23:02 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 14:20:44 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 14:21:01 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 14:21:01 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 14:21:03 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 14:21:03 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 14:21:04 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 14:21:04 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 14:21:04 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 14:21:04 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 14:22:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 14:22:22 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 14:22:22 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 14:22:24 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 14:22:24 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 14:22:25 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 14:22:25 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 14:22:25 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 14:22:25 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 14:22:25 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 14:32:25 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 14:32:40 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 14:32:40 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 14:32:43 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 14:32:43 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 14:32:43 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 14:32:43 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 14:32:43 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 14:32:44 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 14:32:44 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 14:50:22 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:03:57 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:04:14 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:04:14 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 15:04:16 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 15:04:16 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 15:04:16 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 15:04:16 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 15:04:16 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 15:04:17 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 15:06:29 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:06:47 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:06:47 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 15:06:49 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 15:06:49 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 15:06:50 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 15:06:50 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 15:06:50 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 15:06:50 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 15:16:46 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:16:49 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:17:07 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:17:24 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:17:24 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 15:17:27 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 15:17:27 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 15:17:27 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 15:17:27 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 15:17:28 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 15:17:28 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 15:24:40 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:24:58 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:24:58 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 15:25:00 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 15:25:00 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 15:25:01 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 15:25:01 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 15:25:01 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 15:25:02 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 15:25:02 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 15:25:03 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 15:25:03 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 15:25:03 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 15:25:03 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 15:25:04 | [main] utility.Log (Log.java:13) - State is 1
+INFO  | 2018-07-19 15:25:04 | [main] utility.Log (Log.java:13) - Post Code is 00025
+INFO  | 2018-07-19 15:25:04 | [main] utility.Log (Log.java:13) - Country is 21
+INFO  | 2018-07-19 15:25:04 | [main] utility.Log (Log.java:13) - Mobile phone is 0902477905
+INFO  | 2018-07-19 15:25:04 | [main] utility.Log (Log.java:13) - Address alias is alias1
+INFO  | 2018-07-19 15:25:05 | [main] utility.Log (Log.java:13) - Clicking Register
+INFO  | 2018-07-19 15:25:05 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-19 15:25:05 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 15:28:58 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:29:15 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:29:15 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 15:29:17 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 15:29:18 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 15:29:18 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 15:29:18 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 15:29:18 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 15:29:19 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 15:29:20 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 15:29:20 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 15:29:20 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 15:29:20 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 15:29:20 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 15:29:21 | [main] utility.Log (Log.java:13) - State is 1
+INFO  | 2018-07-19 15:29:21 | [main] utility.Log (Log.java:13) - Post Code is 00025
+INFO  | 2018-07-19 15:29:21 | [main] utility.Log (Log.java:13) - Country is 21
+INFO  | 2018-07-19 15:29:21 | [main] utility.Log (Log.java:13) - Mobile phone is 0902477905
+INFO  | 2018-07-19 15:29:21 | [main] utility.Log (Log.java:13) - Address alias is alias1
+INFO  | 2018-07-19 15:29:23 | [main] utility.Log (Log.java:13) - Clicking Register
+INFO  | 2018-07-19 15:29:23 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-19 15:29:23 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 15:30:24 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:30:43 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:30:43 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 15:30:45 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 15:30:46 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 15:30:46 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 15:30:46 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 15:30:46 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 15:30:47 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 15:30:48 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 15:30:48 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 15:30:49 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 15:30:49 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 15:30:49 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 15:30:49 | [main] utility.Log (Log.java:13) - State is 1
+INFO  | 2018-07-19 15:30:49 | [main] utility.Log (Log.java:13) - Post Code is 00025
+INFO  | 2018-07-19 15:30:49 | [main] utility.Log (Log.java:13) - Country is 21
+INFO  | 2018-07-19 15:30:49 | [main] utility.Log (Log.java:13) - Mobile phone is 0902477905
+INFO  | 2018-07-19 15:30:50 | [main] utility.Log (Log.java:13) - Address alias is alias1
+INFO  | 2018-07-19 15:30:51 | [main] utility.Log (Log.java:13) - Clicking Register
+INFO  | 2018-07-19 15:30:51 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-19 15:30:51 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 15:39:43 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 15:40:00 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:40:00 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 15:40:02 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 15:40:02 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 15:40:03 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 15:40:03 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 15:40:03 | [main] utility.Log (Log.java:13) - Email is user004@gmail.com
+INFO  | 2018-07-19 15:40:04 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 15:40:04 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 15:40:04 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 15:40:05 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 15:40:05 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - State is 1
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - Post Code is 00025
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - Country is 21
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - Mobile phone is 0902477905
+INFO  | 2018-07-19 15:40:06 | [main] utility.Log (Log.java:13) - Address alias is alias1
+INFO  | 2018-07-19 15:40:09 | [main] utility.Log (Log.java:13) - Clicking Register
+INFO  | 2018-07-19 15:40:09 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-19 15:40:09 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 15:40:09 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 16:46:02 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 16:46:22 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 16:46:22 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 16:46:25 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 16:46:25 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 16:46:25 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 16:46:25 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 16:46:40 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 16:49:49 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 16:50:09 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 16:50:09 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 16:50:12 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 16:50:12 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 16:50:12 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 16:50:12 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 16:50:27 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 16:51:05 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 16:51:25 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 16:51:25 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 16:51:28 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 16:51:28 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 16:51:29 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 16:51:29 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 16:51:44 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 16:54:52 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 16:55:12 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 16:55:12 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 16:55:14 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 16:55:15 | [main] utility.Log (Log.java:13) - Email address is user004@gmail.com
+INFO  | 2018-07-19 16:55:15 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 16:55:15 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 16:55:30 | [main] utility.Log (Log.java:13) - Closing all browsers
+INFO  | 2018-07-19 16:57:06 | [main] utility.Log (Log.java:13) - Launching browser Firefox
+INFO  | 2018-07-19 16:57:27 | [main] utility.Log (Log.java:25) - ======= Start Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 16:57:27 | [main] utility.Log (Log.java:13) - Clicking on Sign-in link
+INFO  | 2018-07-19 16:57:29 | [main] utility.Log (Log.java:13) - Sign-in page navigating
+INFO  | 2018-07-19 16:57:30 | [main] utility.Log (Log.java:13) - Email address is user005@gmail.com
+INFO  | 2018-07-19 16:57:30 | [main] utility.Log (Log.java:13) - Clicking on Create Account button
+INFO  | 2018-07-19 16:57:30 | [main] utility.Log (Log.java:13) - Create account page navigating
+INFO  | 2018-07-19 16:57:31 | [main] utility.Log (Log.java:13) - Address-Last Name equals to Last Name - 
+INFO  | 2018-07-19 16:57:32 | [main] utility.Log (Log.java:13) - First name is fname
+INFO  | 2018-07-19 16:57:32 | [main] utility.Log (Log.java:13) - Address-First Name equals to First Name - fname
+INFO  | 2018-07-19 16:57:32 | [main] utility.Log (Log.java:13) - Last name is lname
+INFO  | 2018-07-19 16:57:33 | [main] utility.Log (Log.java:13) - Title is Mrs.
+INFO  | 2018-07-19 16:57:33 | [main] utility.Log (Log.java:13) - Email is user005@gmail.com
+INFO  | 2018-07-19 16:57:33 | [main] utility.Log (Log.java:13) - Password populated
+INFO  | 2018-07-19 16:57:33 | [main] utility.Log (Log.java:13) - Day of birth is 1
+INFO  | 2018-07-19 16:57:34 | [main] utility.Log (Log.java:13) - Month of birth is 5
+INFO  | 2018-07-19 16:57:34 | [main] utility.Log (Log.java:13) - Year of birth is 1983
+INFO  | 2018-07-19 16:57:34 | [main] utility.Log (Log.java:13) - Address is address1
+INFO  | 2018-07-19 16:57:34 | [main] utility.Log (Log.java:13) - City is city1
+INFO  | 2018-07-19 16:57:35 | [main] utility.Log (Log.java:13) - State is 1
+INFO  | 2018-07-19 16:57:35 | [main] utility.Log (Log.java:13) - Post Code is 00025
+INFO  | 2018-07-19 16:57:35 | [main] utility.Log (Log.java:13) - Country is 21
+INFO  | 2018-07-19 16:57:35 | [main] utility.Log (Log.java:13) - Mobile phone is 0902477905
+INFO  | 2018-07-19 16:57:35 | [main] utility.Log (Log.java:13) - Address alias is alias1
+INFO  | 2018-07-19 16:57:37 | [main] utility.Log (Log.java:13) - Clicking Register
+INFO  | 2018-07-19 16:57:37 | [main] utility.Log (Log.java:13) - My Account page navigating
+INFO  | 2018-07-19 16:57:37 | [main] utility.Log (Log.java:28) - ======= End Testing SIGN_IN_NEW_ACC =======
+INFO  | 2018-07-19 16:57:37 | [main] utility.Log (Log.java:13) - Closing all browsers

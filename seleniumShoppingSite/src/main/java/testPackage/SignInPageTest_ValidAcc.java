@@ -12,13 +12,19 @@ package testPackage;
 
 import appModule.TestBaseSetup;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import pageObject.HomePage;
 import pageObject.MyAccountPage;
 import pageObject.SignInPage;
 import utility.Constant;
 import utility.Log;
+import utility.ReadWriteJSON;
+
+import java.io.IOException;
+import java.util.Iterator;
 
 import static org.testng.Assert.assertTrue;
 
@@ -36,15 +42,27 @@ public class SignInPageTest_ValidAcc extends TestBaseSetup {
 		myAccountPage = new MyAccountPage(driver);
 	}
 	
-	@Test
-	public void signInValidAccount() {
-		Log.startTest("Sign-in with valid account");
+
+	@Test(dataProvider = "valid_accounts")
+	public void signInValidAccount(String email, String password) {
+		Log.startTest(Constant.testNameEnum.SIGN_IN_VALID_ACC.name());
 		homePage.navigateSignInPage(driver);
 		assertTrue(signInPage.verifySignInPageTitle(),"Sign-in page title not matching");
-		signInPage.signIn(driver, Constant.sheetSignInValidData);
-		assertTrue(myAccountPage.verifyMyAccountPageTitle(),"My account page title not matching" );
-		Log.endTest("Sign-in with valid account");
+		signInPage.signIn(driver, email, password);
+		try {
+			assertTrue(myAccountPage.verifyMyAccountPageTitle(), "My account page title not matching");
+		}catch (Throwable t){
+			Log.error("Error on sign-in page. Unable to navigate my account page");
+			Assert.fail("Error on sign-in page. Unable to navigate my account page");
+		}
+
+		Log.endTest(Constant.testNameEnum.SIGN_IN_VALID_ACC.name());
 	}
+	@DataProvider
+	public static Iterator<Object[]> valid_accounts()throws IOException {
+		return ReadWriteJSON.getValidAccounts();
+	}
+
 	
 
 }

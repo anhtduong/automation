@@ -3,27 +3,28 @@ package pageObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
 import utility.Constant;
-import utility.ExcelUtil;
 import utility.Log;
+
+import java.util.concurrent.TimeUnit;
 
 public class SignInPage {
 
-	private WebDriver driver;
+	private WebDriver _driver;
 	private static By emailNewAccountText = By.id("email_create");
 	private static By createAccountButton = By.id("SubmitCreate");
 	private static By emailText = By.id("email");
 	private static By passwordText = By.id("passwd");
 	private static By submitLoginButton = By.id("SubmitLogin");
-	private static By errorMessage = By.className("alert alert-danger");
+	private static By errorMessage = By.xpath(".//html/body/div/div[2]/div/div[3]/div/div[1]");
 
 	public SignInPage(WebDriver driver) {
-		this.driver = driver;
+		_driver = driver;
+		_driver.manage().timeouts().implicitlyWait(Constant.WAIT_MIN_IN_SECOND, TimeUnit.SECONDS);
 	}
 
 	public void setEmailAddress(String emailAddress) {
-		WebElement element = driver.findElement(emailText);
+		WebElement element = _driver.findElement(emailText);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.clear();
 			element.sendKeys(emailAddress);
@@ -40,7 +41,7 @@ public class SignInPage {
 	
 
 	public void setPassword(String sPass) {
-		WebElement element = driver.findElement(passwordText);
+		WebElement element = _driver.findElement(passwordText);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.clear();
 			element.sendKeys(sPass);
@@ -52,11 +53,11 @@ public class SignInPage {
 	}
 
 	public void setEmailNewAccount(String emailAddress) {
-		WebElement element = driver.findElement(emailNewAccountText);
+		WebElement element = _driver.findElement(emailNewAccountText);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.clear();
 			element.sendKeys(emailAddress);
-			Log.info("Email address is " + element.getText());
+			Log.info("Email address is " + element.getAttribute("value"));
 		}
 
 		else
@@ -64,18 +65,22 @@ public class SignInPage {
 	}
 
 	public void clickLoginButton() {
-		WebElement element = driver.findElement(submitLoginButton);
+		WebElement element = _driver.findElement(submitLoginButton);
 		if (element.isDisplayed() || element.isEnabled()) {
-			element.click();
 			Log.info("Clicking on Login button");
+			element.click();
+			if (verifySignInError()) {
+				Log.info("Signing with invalid email or/and password");
+			}
+		}
+		else {
+			Log.error("Login button not found");
 		}
 
-		else
-			Log.error("Login button not found");
 	}
 
 	public void clickCreateAccountButton() {
-		WebElement element = driver.findElement(createAccountButton);
+		WebElement element = _driver.findElement(createAccountButton);
 		if (element.isDisplayed() || element.isEnabled()) {
 			element.click();
 			Log.info("Clicking on Create Account button");
@@ -86,34 +91,37 @@ public class SignInPage {
 	}
 	// Sign in successfully, navigate MyAccount page
 	// Need to improve with Data-driven
-	public MyAccountPage signIn(WebDriver driver, String sheetName) {
-		ExcelUtil.getExcelFile(sheetName);
-		setEmailAddress(ExcelUtil.getCell(1,1));
-		setPassword(ExcelUtil.getCell(1,2));
+	public MyAccountPage signIn(WebDriver driver, String email, String password) {
+
+		setEmailAddress(email);
+		setPassword(password);
 		clickLoginButton();
-		ExcelUtil.setCell(1,3,Constant.testOutcome.PASS.name());
 		return new MyAccountPage(driver);
 	}
 	
 	// navigate Create-Account page
-	public CreateAccountPage navigateCreateAccountPage() {
-		setEmailNewAccount("user002@gmail.com");
+	public CreateAccountPage navigateNewAccountPage(WebDriver driver, String email) {
+		setEmailNewAccount(email);
 		clickCreateAccountButton();
 		return new CreateAccountPage(driver);
 	}
 
 	public boolean verifySignInPageTitle() {
 		Log.info("Sign-in page navigating");
-		return driver.getTitle().trim().contains(Constant.signInPageTitle);
-		
-		
+		return _driver.getTitle().trim().contains(Constant.signInPageTitle);
 	}
 
-	public boolean verifySignInError() {
-		WebElement  elementError = driver.findElement(errorMessage);
-		if (elementError.isDisplayed()||elementError.isEnabled())
+   	public boolean verifySignInError() {
+		WebElement  elementError = _driver.findElement(errorMessage);
+		if (elementError.isDisplayed()||elementError.isEnabled()) {
+		    Log.info(elementError.getText());
 			return true;
+		}
 		return false;
 	}
+    public boolean verifyCreateAccountPageTitle() {
+        Log.info("Create account page navigating");
+        return _driver.getTitle().trim().contains(Constant.createAccountPageTitle);
+    }
 
 }

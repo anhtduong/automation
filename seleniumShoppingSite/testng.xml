@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="5" name="E-commerce Shopping">
-<parameter name="browserType" value="firefox"></parameter>
-<parameter name="webURL" value="http://automationpractice.com/index.php"></parameter>
-	<test name="Test">
-		<classes>
-			<class name="testPackage.HomePageTest" />
-			<class name="testPackage.SignInPageTest_ValidAcc"/>
-			<class name="testPackage.MyAccountTest"/>
-		</classes>
-	</test>
+<suite  name="E-commerce Shopping">
+	<suite-files>
+		<suite-file path="./suiteB.xml" />
+</suite-files>
 </suite>
